@@ -43,3 +43,6 @@ A: Mozambique
 Auto Quiz - Power 🧠
 Q: On a standard Monopoly board, how much do you have to pay for Tennessee Ave?
 A: $180
+Auto Quiz - Magic 🧠
+Q: What is the name of the main character in &quot;Life is Strange&quot;?
+A: Maxine Caulfield
