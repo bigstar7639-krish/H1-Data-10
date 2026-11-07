@@ -85,3 +85,6 @@ A: Amazon
 Auto Quiz - New York 🧠
 Q: What song by Tina Turner is the theme for Mad Max Beyond Thunderdome?
 A: We Don&#039;t Need Another Hero
+Auto Quiz - Egypt 🧠
+Q: In what year did William the Conqueror take control of England?
+A: 1066
