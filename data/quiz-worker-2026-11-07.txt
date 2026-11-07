@@ -202,3 +202,6 @@ A: Foo Fighters
 Auto Quiz - Teacher 🧠
 Q: Which of these teams has Jaromir Jagr not played for?
 A: New York Islanders
+Auto Quiz - Student 🧠
+Q: Who performed the hit single &#039;Call Me&#039; for the 1980 film &#039;American Gigolo&#039;?
+A: Blondie
