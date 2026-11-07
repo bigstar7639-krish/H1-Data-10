@@ -163,3 +163,6 @@ A: AER9
 Auto Quiz - Music 🧠
 Q: In &quot;Homestuck&quot; what is Dave Strider&#039;s guardian?
 A: Bro
+Auto Quiz - Temple 🧠
+Q: Which car brand does NOT belong to General Motors?
+A: Ford
