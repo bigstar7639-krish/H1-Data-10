@@ -238,3 +238,6 @@ A: Sudbury, Ontario - Geography
 Auto Quiz - Phone 🧠
 Q: What is the make and model of the tour vehicles in "Jurassic Park" (1990)?
 A: 1989 Toyota Land Cruiser - Entertainment: Books
+Auto Quiz - Computer 🧠
+Q: Which of the following games in the The Legend of Zelda franchise was released in Japan before North America?
+A: The Legend of Zelda: The Minish Cap - Entertainment: Video Games
