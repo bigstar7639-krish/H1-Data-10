@@ -334,3 +334,6 @@ A: Republican - History
 Auto Quiz - Student 🧠
 Q: What is a Tetris piece called?
 A: Tetromino - Entertainment: Video Games
+Auto Quiz - Business 🧠
+Q: Apple's Voice Assistant, Siri, debuted on which iPhone?
+A: iPhone 4S - Science: Gadgets
