@@ -115,3 +115,6 @@ A: Transport
 Auto Quiz - Education 🧠
 Q: Who was the first mammal successfully launched into Earth&#039;s orbit?
 A: Laika, the dog
+Auto Quiz - Happiness 🧠
+Q: What is the perk that was introduced in the &quot;Call Of Duty: Zombies&quot; map, &quot;Mob Of The Dead&quot;?
+A: Electric Cherry
