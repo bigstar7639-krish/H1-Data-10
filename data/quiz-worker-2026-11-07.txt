@@ -325,3 +325,6 @@ A: Atlantic City, New Jersey - Entertainment: Board Games
 Auto Quiz - Animal 🧠
 Q: What is the name of the main character of the anime "One-Punch Man"?
 A: Saitama - Entertainment: Japanese Anime & Manga
+Auto Quiz - Baby 🧠
+Q: Who wrote "Harry Potter"?
+A: J.K. Rowling - Entertainment: Books
