@@ -65,3 +65,4 @@ Student - Wikimedia - https://commons.wikimedia.org/wiki/File:Students_departing
 Student - Unsplash - https://source.unsplash.com/800x600/?student%20graduation
 Student - Openverse - https://www.flickr.com/photos/122321394@N07/14049727962
 Student - Openverse - https://www.flickr.com/photos/56155476@N08/6660067753
+Student - Openverse - https://www.flickr.com/photos/34146973@N04/8161598615
