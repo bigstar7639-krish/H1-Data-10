@@ -100,3 +100,6 @@ A: 49
 Auto Quiz - Psychology 🧠
 Q: In the anime, Full Metal Panic!, who is Kaname&#039;s best friend?
 A: Kyoko Tokiwa
+Auto Quiz - Philosophy 🧠
+Q: How many furlongs are there in a mile?
+A: Eight
