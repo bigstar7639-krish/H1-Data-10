@@ -71,3 +71,4 @@ Eiffel Tower - eiffeltowerother00bart - The Eiffel Tower, and other mythologies
 Psychology - bwb_S0-ASV-022 - Introduction to Experimental Psychology
 Psychology - consultingclinic0040unse - Consulting and Clinical Psychology
 Philosophy - bwb_Y0-COU-477 - The moral philosophy of George Berkeley
+Philosophy - bwb_Y0-BUC-382 - the dawn philosophy
