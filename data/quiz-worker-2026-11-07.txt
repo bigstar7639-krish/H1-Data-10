@@ -193,3 +193,6 @@ A: Foxes
 Auto Quiz - Bird 🧠
 Q: Which of these species is not extinct?
 A: Komodo dragon
+Auto Quiz - Animal 🧠
+Q: Which of these cartoon girlfriends of popular characters first appeared before their boyfriends?
+A: Olive Oyl
