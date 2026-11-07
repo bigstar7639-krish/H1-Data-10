@@ -40,3 +40,6 @@ A: Lucas
 Auto Quiz - Wisdom 🧠
 Q: Which of these African countries displays a gun on their flag?
 A: Mozambique
+Auto Quiz - Power 🧠
+Q: On a standard Monopoly board, how much do you have to pay for Tennessee Ave?
+A: $180
