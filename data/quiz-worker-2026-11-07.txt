@@ -109,3 +109,6 @@ A: Mob Of The Dead
 Auto Quiz - Politics 🧠
 Q: How many games in the Crash Bandicoot series were released on the original Playstation?
 A: 5
+Auto Quiz - Law 🧠
+Q: What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
+A: Transport
