@@ -58,3 +58,6 @@ A: Shaft
 Auto Quiz - Rain 🧠
 Q: What colour is the female blackbird?
 A: Brown
+Auto Quiz - Village 🧠
+Q: Which country is featured in Ace Combat 5: The Unsung War?
+A: Osea
