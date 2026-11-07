@@ -64,3 +64,6 @@ A: Osea
 Auto Quiz - City 🧠
 Q: The Quran is the holy book of which Abrahamic religion?
 A: Islam
+Auto Quiz - Chennai 🧠
+Q: Which of the following former Yugoslavian states is landlocked?
+A: Serbia
