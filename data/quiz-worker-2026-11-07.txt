@@ -259,3 +259,6 @@ A: 1911 - History
 Auto Quiz - Reading 🧠
 Q: What style of beer will typically have a higher than average hop content?
 A: India Pale Ale - General Knowledge
+Auto Quiz - Writing 🧠
+Q: What is the half-life of Uranium-235?
+A: 703,800,000 years - Science & Nature
