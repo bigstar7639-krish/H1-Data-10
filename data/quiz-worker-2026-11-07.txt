@@ -214,3 +214,6 @@ A: Bootleg
 Auto Quiz - Meditation 🧠
 Q: What is the exact length of one non-curved part in Lane 1 of an Olympic Track?
 A: 84.39m
+Auto Quiz - Fitness 🧠
+Q: What medication was once commonly used as rat poison?
+A: Coumadin
