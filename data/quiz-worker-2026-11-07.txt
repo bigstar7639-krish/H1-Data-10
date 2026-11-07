@@ -178,3 +178,6 @@ A: Mozambique
 Auto Quiz - River 🧠
 Q: In what year was the M1911 pistol designed?
 A: 1911
+Auto Quiz - Sky 🧠
+Q: What Nationality is D.Va from Overwatch?
+A: Korean
