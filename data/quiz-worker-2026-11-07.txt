@@ -175,3 +175,6 @@ A: Folium of Descartes
 Auto Quiz - Mountain 🧠
 Q: Which of these African countries displays a gun on their flag?
 A: Mozambique
+Auto Quiz - River 🧠
+Q: In what year was the M1911 pistol designed?
+A: 1911
