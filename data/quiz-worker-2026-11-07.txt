@@ -37,3 +37,6 @@ A: Japan
 Auto Quiz - Truth 🧠
 Q: Which of the following characters were considered for inclusion in Super Smash Bros. Melee?
 A: Lucas
+Auto Quiz - Wisdom 🧠
+Q: Which of these African countries displays a gun on their flag?
+A: Mozambique
