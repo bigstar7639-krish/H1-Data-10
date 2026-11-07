@@ -130,3 +130,6 @@ A: Deku
 Auto Quiz - Freedom 🧠
 Q: In &quot;Black Lagoon&quot;, what colour is Rock&#039;s tie?
 A: Teal
+Auto Quiz - Hope 🧠
+Q: How many women joined the United States Armed Services during World War II?
+A: 350,000
