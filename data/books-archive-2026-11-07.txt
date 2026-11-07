@@ -233,3 +233,4 @@ Mountain - skullmountainban0000terr - Skull Mountain Bandit
 River - PsRiverSpotlightBrushesFree - Ps River Spotlight Brushes Free
 River - bwb_C0-AMM-515 - A Critical History Of The Red River Insurrection After Official Documents And Non-Catholic Sources
 Sky - os505-sky-securitized-liens_202405 - OS505 SKY SECURITIZED LIENs
+Sky - deathskyabove0000unse - Death and the Sky Above
