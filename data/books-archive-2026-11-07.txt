@@ -223,3 +223,4 @@ Music - bwb_S0-EAJ-347 - Music in protestant worship
 Movie - movie_201611 - movie
 Movie - MovieMenu - Movie Menu
 Temple - geologymineralre0000davi_v5e9 - GEOLOGY AND MINERAL RESOURCES OF THE TEMPLE AND FLEETWOOD QUADRANGLES, BERKS COUNTY, PENNSYLVANIA
+Temple - bwb_S0-BNI-873 - William Temple Hornaday
