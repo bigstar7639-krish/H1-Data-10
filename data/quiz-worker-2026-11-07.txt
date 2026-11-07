@@ -187,3 +187,6 @@ A: 19
 Auto Quiz - Moon 🧠
 Q: Out of these four buildings, which one is the tallest, with a height of 1,250 ft (381 m)?
 A: Empire State Building, United States
+Auto Quiz - Sun 🧠
+Q: Which animal was part of an Russian domestication experiment in 1959?
+A: Foxes
