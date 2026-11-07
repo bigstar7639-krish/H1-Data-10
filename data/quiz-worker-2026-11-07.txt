@@ -145,3 +145,6 @@ A: Apocalypse Now
 Auto Quiz - Cat 🧠
 Q: What machine element is located in the center of fidget spinners?
 A: Bearings
+Auto Quiz - Dog 🧠
+Q: Which of these characters live in a pineapple under the sea in the cartoon &quot;SpongeBob SquarePants&quot;.
+A: SpongeBob SquarePants 
