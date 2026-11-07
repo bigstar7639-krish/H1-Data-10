@@ -52,3 +52,4 @@ Student - Wikimedia - https://commons.wikimedia.org/wiki/File:Silverwork_and_jew
 Student - Wikimedia - https://commons.wikimedia.org/wiki/File:20260511_Changdao_No.1_Experimental_School_Happy_Farming_Garden_PANO_2.jpg
 Student - Wikimedia - https://commons.wikimedia.org/wiki/File:Reading_Wikipedia_in_the_Classroom_for_Secondary_School_Student_Closing_Session_GSS_Adeta_46.jpg
 Student - Wikimedia - https://commons.wikimedia.org/wiki/File:Female_student_sitting_on_dorm_room_bed_at_Arlington_State_College_(10004347).jpg
+Student - Unsplash - https://source.unsplash.com/800x600/?student%20graduation
