@@ -163,3 +163,4 @@ Diet - flatbellydietfla0000unse_q0j7 - Flat belly diet! : a flat belly is about 
 Sleep - isbn_9781841937984 - A Guide To A Good Nights Sleep
 Sleep - sleeptightpete0000sche - Sleep tight, Pete
 Horse - bwb_Y0-BYL-514 - The Manual of Horsemanship of the British Horse Society and the Pony Club
+Horse - bwb_KV-691-323 - The Horse in County Clare
