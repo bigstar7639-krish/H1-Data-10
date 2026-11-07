@@ -184,3 +184,6 @@ A: Korean
 Auto Quiz - Star 🧠
 Q: On a dartboard, what number is directly opposite No. 1?
 A: 19
+Auto Quiz - Moon 🧠
+Q: Out of these four buildings, which one is the tallest, with a height of 1,250 ft (381 m)?
+A: Empire State Building, United States
