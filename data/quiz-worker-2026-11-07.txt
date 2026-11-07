@@ -205,3 +205,6 @@ A: New York Islanders
 Auto Quiz - Student 🧠
 Q: Who performed the hit single &#039;Call Me&#039; for the 1980 film &#039;American Gigolo&#039;?
 A: Blondie
+Auto Quiz - Business 🧠
+Q: What is the name of the infamous pachinko machine from &quot;Kaiji&quot;?
+A: The Bog
