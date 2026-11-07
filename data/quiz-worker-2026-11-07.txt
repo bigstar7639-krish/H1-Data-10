@@ -70,3 +70,6 @@ A: Serbia
 Auto Quiz - Madurai 🧠
 Q: Who invented the &quot;Spanning Tree Protocol&quot;?
 A: Radia Perlman
+Auto Quiz - Delhi 🧠
+Q: Which one of these action movies are shot entirely in one take?
+A: Victoria
