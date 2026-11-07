@@ -235,3 +235,6 @@ A: 15 Degree - Vehicles
 Auto Quiz - Flight 🧠
 Q: In which city is the Big Nickel located in Canada?
 A: Sudbury, Ontario - Geography
+Auto Quiz - Phone 🧠
+Q: What is the make and model of the tour vehicles in "Jurassic Park" (1990)?
+A: 1989 Toyota Land Cruiser - Entertainment: Books
