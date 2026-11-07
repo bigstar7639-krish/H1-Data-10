@@ -97,3 +97,6 @@ A: Telepathy
 Auto Quiz - Eiffel Tower 🧠
 Q: How many stations does the Central Line have on the London Underground?
 A: 49
+Auto Quiz - Psychology 🧠
+Q: In the anime, Full Metal Panic!, who is Kaname&#039;s best friend?
+A: Kyoko Tokiwa
