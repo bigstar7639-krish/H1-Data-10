@@ -67,3 +67,6 @@ A: Islam
 Auto Quiz - Chennai 🧠
 Q: Which of the following former Yugoslavian states is landlocked?
 A: Serbia
+Auto Quiz - Madurai 🧠
+Q: Who invented the &quot;Spanning Tree Protocol&quot;?
+A: Radia Perlman
