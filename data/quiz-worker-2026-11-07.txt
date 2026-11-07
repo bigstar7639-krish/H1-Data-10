@@ -154,3 +154,6 @@ A: 53,594
 Auto Quiz - Cricket 🧠
 Q: Which of these is NOT considered a woodwind instrument?
 A: Trombone
+Auto Quiz - Space 🧠
+Q: Which of the following geographic features is a ring-shaped coral reef, island, or series of islets?
+A: Atoll
