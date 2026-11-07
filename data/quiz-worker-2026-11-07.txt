@@ -166,3 +166,6 @@ A: Bro
 Auto Quiz - Temple 🧠
 Q: Which car brand does NOT belong to General Motors?
 A: Ford
+Auto Quiz - Flower 🧠
+Q: What was the first &quot;Team Fortress 2&quot; update to include a war?
+A: Sniper vs. Spy Update
