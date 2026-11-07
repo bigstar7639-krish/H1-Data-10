@@ -181,3 +181,6 @@ A: 1911
 Auto Quiz - Sky 🧠
 Q: What Nationality is D.Va from Overwatch?
 A: Korean
+Auto Quiz - Star 🧠
+Q: On a dartboard, what number is directly opposite No. 1?
+A: 19
