@@ -46,3 +46,6 @@ A: $180
 Auto Quiz - Magic 🧠
 Q: What is the name of the main character in &quot;Life is Strange&quot;?
 A: Maxine Caulfield
+Auto Quiz - Luck 🧠
+Q: In the 9th Pokemon movie, who is the Prince of the Sea?
+A: Manaphy
