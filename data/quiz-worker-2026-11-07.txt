@@ -148,3 +148,6 @@ A: Bearings
 Auto Quiz - Dog 🧠
 Q: Which of these characters live in a pineapple under the sea in the cartoon &quot;SpongeBob SquarePants&quot;.
 A: SpongeBob SquarePants 
+Auto Quiz - Food 🧠
+Q: How many zombies need to be killed to get the &quot;Zombie Genocider&quot; achievement in Dead Rising (2006)?
+A: 53,594
