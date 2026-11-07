@@ -238,3 +238,4 @@ Star - isbn_9781841490960 - The Star Fraction
 Star - bwb_S0-BKM-870 - Lone Star General Hiram Bronson Granbury
 Moon - targetmoon0000tere - Target: moon
 Moon - suenodelunailena0000mccu - Sueno De Luna Ilena (Full Moon Dream)
+Sun - bwb_Y0-EAO-914 - THe Sun Also RIses
