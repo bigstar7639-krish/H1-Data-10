@@ -208,3 +208,6 @@ A: Blondie
 Auto Quiz - Business 🧠
 Q: What is the name of the infamous pachinko machine from &quot;Kaiji&quot;?
 A: The Bog
+Auto Quiz - Money 🧠
+Q: Which of these words refers to something made, distributed, or sold illegally?
+A: Bootleg
