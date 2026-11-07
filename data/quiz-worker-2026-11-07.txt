@@ -196,3 +196,6 @@ A: Komodo dragon
 Auto Quiz - Animal 🧠
 Q: Which of these cartoon girlfriends of popular characters first appeared before their boyfriends?
 A: Olive Oyl
+Auto Quiz - Baby 🧠
+Q: Which band released the album &quot;Sonic Highways&quot; in 2014?
+A: Foo Fighters
