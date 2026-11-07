@@ -190,3 +190,6 @@ A: Empire State Building, United States
 Auto Quiz - Sun 🧠
 Q: Which animal was part of an Russian domestication experiment in 1959?
 A: Foxes
+Auto Quiz - Bird 🧠
+Q: Which of these species is not extinct?
+A: Komodo dragon
