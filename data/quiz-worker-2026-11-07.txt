@@ -61,3 +61,6 @@ A: Brown
 Auto Quiz - Village 🧠
 Q: Which country is featured in Ace Combat 5: The Unsung War?
 A: Osea
+Auto Quiz - City 🧠
+Q: The Quran is the holy book of which Abrahamic religion?
+A: Islam
