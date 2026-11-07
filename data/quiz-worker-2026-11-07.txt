@@ -328,3 +328,6 @@ A: Saitama - Entertainment: Japanese Anime & Manga
 Auto Quiz - Baby 🧠
 Q: Who wrote "Harry Potter"?
 A: J.K. Rowling - Entertainment: Books
+Auto Quiz - Teacher 🧠
+Q: To what political party did Abraham Lincoln belong when elected POTUS?
+A: Republican - History
