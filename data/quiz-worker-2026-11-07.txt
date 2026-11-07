@@ -331,3 +331,6 @@ A: J.K. Rowling - Entertainment: Books
 Auto Quiz - Teacher 🧠
 Q: To what political party did Abraham Lincoln belong when elected POTUS?
 A: Republican - History
+Auto Quiz - Student 🧠
+Q: What is a Tetris piece called?
+A: Tetromino - Entertainment: Video Games
