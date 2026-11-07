@@ -91,3 +91,6 @@ A: 1066
 Auto Quiz - Pyramids 🧠
 Q: In the survival horror game, &quot;Cry of Fear,&quot; what was the name of Simon&#039;s close friend/potential love interest?
 A: Sophie
+Auto Quiz - Taj Mahal 🧠
+Q: In the Pok&eacute;mon series, what is Palkia&#039;s hidden ability?
+A: Telepathy
