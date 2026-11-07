@@ -112,3 +112,6 @@ A: 5
 Auto Quiz - Law 🧠
 Q: What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?
 A: Transport
+Auto Quiz - Education 🧠
+Q: Who was the first mammal successfully launched into Earth&#039;s orbit?
+A: Laika, the dog
