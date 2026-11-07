@@ -94,3 +94,6 @@ A: Sophie
 Auto Quiz - Taj Mahal 🧠
 Q: In the Pok&eacute;mon series, what is Palkia&#039;s hidden ability?
 A: Telepathy
+Auto Quiz - Eiffel Tower 🧠
+Q: How many stations does the Central Line have on the London Underground?
+A: 49
