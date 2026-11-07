@@ -172,3 +172,6 @@ A: Sniper vs. Spy Update
 Auto Quiz - Sea 🧠
 Q: What is the plane curve proposed by Descartes to challenge Fermat&#039;s extremum-finding techniques called?
 A: Folium of Descartes
+Auto Quiz - Mountain 🧠
+Q: Which of these African countries displays a gun on their flag?
+A: Mozambique
