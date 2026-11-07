@@ -142,3 +142,6 @@ A: Water
 Auto Quiz - God 🧠
 Q: This movie contains the quote, &quot;I love the smell of napalm in the morning!&quot;
 A: Apocalypse Now
+Auto Quiz - Cat 🧠
+Q: What machine element is located in the center of fidget spinners?
+A: Bearings
