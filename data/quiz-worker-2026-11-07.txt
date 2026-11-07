@@ -274,3 +274,6 @@ A: "You done?" - Entertainment: Video Games
 Auto Quiz - Love 🧠
 Q: Who is the original author of the realtime physics engine called PhysX?
 A: NovodeX - Science: Computers
+Auto Quiz - Nature 🧠
+Q: Au on the Periodic Table refers to which element?
+A: Gold - Science & Nature
