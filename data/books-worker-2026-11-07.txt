@@ -242,3 +242,4 @@ Sleep - Doctor Sleep
 Sleep - Sleeping Murder
 Horse - The Horse and His Boy
 Horse - War Horse
+Horse - On a pale horse
