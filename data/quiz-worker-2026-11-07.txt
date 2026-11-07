@@ -34,3 +34,6 @@ A: The Jets
 Auto Quiz - Kindness 🧠
 Q: What country does sushi &amp; karaoke come from?
 A: Japan
+Auto Quiz - Truth 🧠
+Q: Which of the following characters were considered for inclusion in Super Smash Bros. Melee?
+A: Lucas
