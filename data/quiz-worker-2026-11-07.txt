@@ -16,3 +16,6 @@ A: Tilly
 Auto Quiz - Friendship 🧠
 Q: Which country gifted the Statue of Liberty to the United States of America?
 A: France
+Auto Quiz - Study 🧠
+Q: Which of these operators from &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; has the ability to damage reinforced walls?
+A: Jordan &quot;Thermite&quot; Trace
