@@ -25,3 +25,6 @@ A: September 19th
 Auto Quiz - Motivation 🧠
 Q: What is the unit of electrical resistance?
 A: Ohm
+Auto Quiz - Peace 🧠
+Q: The eccentric natural philosopher Tycho Brahe kept what as a pet?
+A: Moose
