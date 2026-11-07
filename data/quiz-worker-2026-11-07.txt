@@ -136,3 +136,6 @@ A: 350,000
 Auto Quiz - Faith 🧠
 Q: Which animated film did Steven Lisberger direct in 1980 before going on to direct Tron?
 A: Animalympics
+Auto Quiz - Tamil 🧠
+Q: 71% of the Earth&#039;s surface is made up of
+A: Water
