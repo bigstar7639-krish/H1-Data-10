@@ -530,3 +530,5 @@ Aira: Kadhal - Azhagu!
 Talk 4191 - Power pathi pesalama? Sollu!
 Movie 4192 - Leo - Vijay - Action!
 Thirukkural 4193 - Anbu - Ellam Tharum! - Thirukkural
+Story 4194
+Oru paris la oru raja irunthan! Daily book padichan pannan! Oru naal wisdom kedaichuchu! Life maariduchu!
