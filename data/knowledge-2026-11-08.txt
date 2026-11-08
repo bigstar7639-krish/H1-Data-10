@@ -234,3 +234,6 @@ A: Atlanta, Georgia USA - Geography
 Knowledge Quiz
 Q: Which American civilization is the source of the belief that the world would end or drastically change on December 21st, 2012?
 A: The Mayans - History
+Knowledge Quiz
+Q: In a standard Gregorian calendar, how many months begin with the letter 'J'?
+A: Three - General Knowledge
