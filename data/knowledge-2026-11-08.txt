@@ -93,3 +93,6 @@ A: Omega - General Knowledge
 Knowledge Quiz
 Q: What was James Coburn's last film role before his death?
 A: American Gun - Celebrities
+Knowledge Quiz
+Q: What is the least number of sides a polygon can have?
+A: 3 - Science: Mathematics
