@@ -457,3 +457,6 @@ A: France - Entertainment: Musicals & Theatres
 Knowledge Quiz
 Q: Which of these is not the name of a city in the Grand Theft Auto series?
 A: San Andreas - Entertainment: Video Games
+Knowledge Quiz
+Q: In "PAYDAY 2", what weapon has the highest base weapon damage on a per-shot basis?
+A: HRL-7 - Entertainment: Video Games
