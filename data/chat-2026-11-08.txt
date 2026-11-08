@@ -902,3 +902,4 @@ Game 4395 - Dice - Ne Dice nu Sollu!
 Talk 4396 - Quran pathi pesalama? Sollu!
 Joke 4397
 Why bike sad? Petrol illa!
+Game 4398 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
