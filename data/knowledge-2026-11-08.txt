@@ -676,3 +676,6 @@ A: 1993 - Entertainment: Board Games
 Knowledge Quiz
 Q: What was the first "Team Fortress 2" update to include a war?
 A: Sniper vs. Spy Update - Entertainment: Video Games
+Knowledge Quiz
+Q: In "Team Fortress 2", what is the fastest taunt kill that can be pulled off?
+A: Showdown - Entertainment: Video Games
