@@ -670,3 +670,5 @@ Vocab 4267 - Kindness = Anbu
 Thirukkural 4268 - Porumai - Periya Sakthi! - Thirukkural
 Coding Q 4269 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
+Joke 4270
+Teacher: Yen late? Student: School Ahead board!
