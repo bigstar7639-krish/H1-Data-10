@@ -197,3 +197,6 @@ A: Trevor Bruttenholm - Entertainment: Comics
 Knowledge Quiz
 Q: What was the name of the protagonist in the movie Commando (1985)?
 A: John Matrix - Entertainment: Film
+Knowledge Quiz
+Q: Who directed Marvel's Avengers Endgame?
+A: The Russo Brothers - Entertainment: Film
