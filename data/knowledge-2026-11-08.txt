@@ -505,3 +505,6 @@ A: Liquid Crystal Display - Science: Computers
 Knowledge Quiz
 Q: Which of the following Physicists aided Nazi Germany in their production of a nuclear weapon?
 A: Werner Heisenberg - History
+Knowledge Quiz
+Q: What does DNA stand for?
+A: Deoxyribonucleic Acid - Science & Nature
