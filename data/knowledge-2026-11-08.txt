@@ -557,3 +557,6 @@ A: James Watt - Science: Gadgets
 Knowledge Quiz
 Q: What is the name of Eragon's dragon in "Eragon"?
 A: Saphira - Entertainment: Books
+Knowledge Quiz
+Q: Who is the singer for Fall Out Boy?
+A: Patrick Stump - Entertainment: Music
