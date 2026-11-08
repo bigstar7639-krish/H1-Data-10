@@ -466,3 +466,6 @@ A: 7 - Entertainment: Board Games
 Knowledge Quiz
 Q: What is the name of James Dean's character in the 1955 movie "Rebel Without a Cause"?
 A: Jim Stark - Entertainment: Film
+Knowledge Quiz
+Q: What is the name of the 4-armed Chaos Witch from the 2016 video game "Battleborn"?
+A: Orendi - Entertainment: Video Games
