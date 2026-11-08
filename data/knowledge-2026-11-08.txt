@@ -439,3 +439,6 @@ A: LV-426 - Entertainment: Film
 Knowledge Quiz
 Q: Which of the following was not one of Joseph Stalin's ten blows during World War II?
 A: Vistula-Oder Offensive - History
+Knowledge Quiz
+Q: This composer worked on the 2003 TV series Battlestar Galatica.
+A: Bear McCreary - Entertainment: Television
