@@ -243,3 +243,6 @@ A: Volvo - Vehicles
 Knowledge Quiz
 Q: How old was the famous King Tutankhamen (Tut) when he died?
 A: 19 - History
+Knowledge Quiz
+Q: Which of the following blood vessels carries deoxygenated blood?
+A: Pulmonary Artery - Science & Nature
