@@ -896,3 +896,5 @@ Knowledge 4391 - Tamil Nadu - Hey friend! 😊
 Vocab 4392 - Love = Kadhal
 Emotion Q 4393 - sad?
 Aira: Paravalla! Aira irukka - Pesu!
+Story 4394
+Oru chinna oor la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
