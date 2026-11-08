@@ -757,3 +757,6 @@ A: 2014 - Entertainment: Video Games
 Knowledge Quiz
 Q: During World War I, which nation's monarchs were blood related?
 A: England, Germany, Russia - History
+Knowledge Quiz
+Q: In Minecraft, what types of sound files are required for custom SFX to work in resource packs?
+A: .ogg - Entertainment: Video Games
