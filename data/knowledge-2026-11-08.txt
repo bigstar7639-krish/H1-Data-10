@@ -658,3 +658,6 @@ A: Magnitude - Entertainment: Television
 Knowledge Quiz
 Q: Irish musician Hozier released a music track in 2013 titled, "Take Me to ______"
 A: Church - Entertainment: Music
+Knowledge Quiz
+Q: In Portal, what color is the Morality Core?
+A: Purple - Entertainment: Video Games
