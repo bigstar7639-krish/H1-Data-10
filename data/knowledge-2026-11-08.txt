@@ -337,3 +337,6 @@ A: France - Sports
 Knowledge Quiz
 Q: In Yakuza 0, what is the order of the fighting styles acquired as Kazuma Kiryu?
 A: Brawler, Rush, Beast, Legend - Entertainment: Video Games
+Knowledge Quiz
+Q: What actor portrays Hogan "Wash" Washburne in the TV Show Firefly?
+A: Alan Tudyk - Entertainment: Television
