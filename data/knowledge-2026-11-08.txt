@@ -191,3 +191,6 @@ A: Trinidad and Tobago - Entertainment: Music
 Knowledge Quiz
 Q: In the TV show 'M*A*S*H', what was the nickname of Corporal Walter O'Reilly?
 A: Radar - Entertainment: Television
+Knowledge Quiz
+Q: In the Hellboy universe, who founded the BPRD?
+A: Trevor Bruttenholm - Entertainment: Comics
