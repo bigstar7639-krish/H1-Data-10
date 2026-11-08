@@ -102,3 +102,6 @@ A: 88 - General Knowledge
 Knowledge Quiz
 Q: Which company designed the "Betamax" video cassette format?
 A: Sony - Science: Gadgets
+Knowledge Quiz
+Q: Where was the Games of the XXII Olympiad held?
+A: Moscow - Sports
