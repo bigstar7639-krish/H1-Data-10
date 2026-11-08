@@ -297,3 +297,6 @@ A: print("Hello World") - Science: Computers
 Knowledge Quiz
 Q: What is lost in Hawaiian and is also the name of a little girl in a 2002 film which features a alien named "Stitch"?
 A: Lilo - Entertainment: Cartoon & Animations
+Knowledge Quiz
+Q: The stop motion comedy show "Robot Chicken" was created by which of the following?
+A: Seth Green - Entertainment: Cartoon & Animations
