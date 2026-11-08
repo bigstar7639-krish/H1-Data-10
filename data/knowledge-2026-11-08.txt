@@ -560,3 +560,6 @@ A: Saphira - Entertainment: Books
 Knowledge Quiz
 Q: Who is the singer for Fall Out Boy?
 A: Patrick Stump - Entertainment: Music
+Knowledge Quiz
+Q: In "Donkey Kong Country", why does Donkey Kong want to know the secret of the crystal coconut?
+A: He's the big kahuna. - Entertainment: Television
