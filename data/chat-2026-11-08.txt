@@ -622,3 +622,4 @@ Fact 175 - Octopus ku 3 heart!
 Story 4239
 Oru tokyo la oru ponnu irunthan! Daily help pannan pannan! Oru naal friend kedaichuchu! Life maariduchu!
 Knowledge 4240 - Climate - Climate pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
+Recipe 4241 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
