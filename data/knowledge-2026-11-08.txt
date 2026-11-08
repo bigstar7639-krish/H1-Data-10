@@ -303,3 +303,6 @@ A: Seth Green - Entertainment: Cartoon & Animations
 Knowledge Quiz
 Q: What was the name of Sqiudward's bad painting in the Spongebob episode "Artist Unknown?"
 A: Bold and Brash - General Knowledge
+Knowledge Quiz
+Q: What is the capital of Australia?
+A: Canberra - Geography
