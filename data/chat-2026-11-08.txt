@@ -683,3 +683,19 @@ Recipe 4276 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Smart Q 4277 - Food la eppadi jeyikkarathu?
 Coding Q 4278 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Aira AI: Hey buddy! 👋 நான் Aira, உங்க friendly “Tamil‑Tanglish” storyteller—எங்கோ “All‑Language” vibes-ஓடும்! 🎉  
+Let’s spin a little “Internet” story, but not just the boring tech‑manual kind—ஒரு சுவையான, உலா‑உலா கதையா? 😎
+
+---
+
+## **The Dream‑Weaver’s Net**
+
+### **1. The First Spark (1960‑s)**
+Once upon a time, in a small basement in **California**, a few *mad scientists* (ஆங்கிலத்தில் “engineers”) were playing with **radio waves**.  
+அவர்கள் “இணையம்” (the *net*) என்னும் கனவு காண்றது, “ஒவ்வொரு வீட்டுக்கும் ஒரு மந்திரக் கயிறு” போல.  
+In 1969, **ARPANET** – the granddad of everything – lit up like a **தீபம்** across four universities. Imagine four tiny villages shouting “Hello!” to each other over a string of invisible vines.
+
+> *“Hello, world!”*  
+> – The first *digital* “வணக்கம்”.
+
+### **2. The Gr
