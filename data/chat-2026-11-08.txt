@@ -942,3 +942,4 @@ Vocab 4415 - Friend = Nanban
 Health 4416 - Health Tip: Fruits daily saapdunga!
 Health 4417 - Yoga Tip: Daily 5 min deep breath edu!
 Movie 4418 - Leo - Vijay - Action!
+Talk 4419 - Politics pathi pesalama? Sollu!
