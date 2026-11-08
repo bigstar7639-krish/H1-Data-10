@@ -194,3 +194,6 @@ A: Radar - Entertainment: Television
 Knowledge Quiz
 Q: In the Hellboy universe, who founded the BPRD?
 A: Trevor Bruttenholm - Entertainment: Comics
+Knowledge Quiz
+Q: What was the name of the protagonist in the movie Commando (1985)?
+A: John Matrix - Entertainment: Film
