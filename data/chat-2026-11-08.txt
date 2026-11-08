@@ -662,3 +662,4 @@ Recipe 4260 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Emotion Q 4261 - bored?
 Aira: Bored ah? Joke sollattuma?
 Pazhamozhi 4262 - Porumai - Perumai Tharum!
+Quote 4263 - Daily try pannu - Jeyichiduva! - Aira
