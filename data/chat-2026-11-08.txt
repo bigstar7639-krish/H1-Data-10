@@ -529,3 +529,4 @@ Emotion Q 4190 - love?
 Aira: Kadhal - Azhagu!
 Talk 4191 - Power pathi pesalama? Sollu!
 Movie 4192 - Leo - Vijay - Action!
+Thirukkural 4193 - Anbu - Ellam Tharum! - Thirukkural
