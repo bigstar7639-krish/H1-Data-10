@@ -490,3 +490,6 @@ A: 40 - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of the following games was not a launch title for the Nintendo Gamecube?
 A: Super Mario Sunshine - Entertainment: Video Games
+Knowledge Quiz
+Q: In the game "Persona 4", what is the canonical name of the protagonist?
+A: Yu Narukami - Entertainment: Video Games
