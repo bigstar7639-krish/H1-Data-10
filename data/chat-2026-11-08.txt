@@ -568,3 +568,5 @@ Recipe 4212 - Cake - Maida + Sugar + Egg + 30 min!
 Coding Q 4213 - React la component enna?
 Aira: React component - Chinna piece!
 Q 4214 - Job pathi oru secret sollatta?
+Story 4215
+Oru madurai la oru raja irunthan! Daily book padichan pannan! Oru naal wisdom kedaichuchu! Life maariduchu!
