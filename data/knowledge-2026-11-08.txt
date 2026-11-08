@@ -630,3 +630,6 @@ A: Martin Luther King Jr - Entertainment: Music
 Knowledge Quiz
 Q: What was the title of the first Bond movie, released in 1962?
 A: Dr. No - Entertainment: Film
+Knowledge Quiz
+Q: Who won the 2018 Monaco Grand Prix?
+A: Daniel Ricciardo - Sports
