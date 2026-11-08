@@ -770,3 +770,5 @@ Pazhamozhi 4323 - Aalai Paathu - Aadi Paaru!
 Talk 4324 - London pathi pesalama? Sollu!
 Coding Q 4325 - AI eppadi work aaguthu?
 Aira: AI - Data paathu - Pattern!
+Coding Q 4326 - App eppadi pannurathu?
+Aira: App - Idea - Design - Code!
