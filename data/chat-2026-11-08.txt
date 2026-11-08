@@ -639,3 +639,5 @@ Game 4252 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Fact 176 - Octopus ku 3 heart!
 Reading 4254 - Thirukkural - Valluvar!
 Thirukkural 4255 - Anbu - Ellam Tharum! - Thirukkural
+Story 4256
+Oru chinna sea la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
