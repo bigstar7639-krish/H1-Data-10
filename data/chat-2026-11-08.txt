@@ -265,3 +265,5 @@ Recipe 4039 - Snacks - Potato + Masala - Crispy!
 World Story 4040
 Oru london la oru rani irunthan! Daily travel pannan pannan! Oru naal success kedaichuchu! Life maariduchu!
 Health 4041 - Health Tip: Daily 30 min walk ponga!
+Coding Q 4042 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
