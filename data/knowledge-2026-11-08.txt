@@ -633,3 +633,6 @@ A: Dr. No - Entertainment: Film
 Knowledge Quiz
 Q: Who won the 2018 Monaco Grand Prix?
 A: Daniel Ricciardo - Sports
+Knowledge Quiz
+Q: What event inspired The Cranberries song "Zombie" ?
+A: The Warrington Bombings - Entertainment: Music
