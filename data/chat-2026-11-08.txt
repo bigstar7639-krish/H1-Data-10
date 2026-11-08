@@ -215,3 +215,5 @@ Vocab 3999 - Success = Vetri
 Thirukkural 4000 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Joke 4001
 Why bike sad? Petrol illa!
+Joke 4002
+Teacher: Yen late? Student: School Ahead board!
