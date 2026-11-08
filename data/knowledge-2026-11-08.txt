@@ -258,3 +258,6 @@ A: Switzerland - Geography
 Knowledge Quiz
 Q: How many plays is Shakespeare generally considered to have written?
 A: 37 - Entertainment: Musicals & Theatres
+Knowledge Quiz
+Q: In the "Jurassic Park" universe, what was the first dinosaur cloned by InGen in 1986?
+A: Velociraptor - Entertainment: Film
