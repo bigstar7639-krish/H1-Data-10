@@ -615,3 +615,6 @@ A: Liam Neeson - Entertainment: Video Games
 Knowledge Quiz
 Q: Which one of these actors is said to be cut from the film 'E.T. the Extra-Terrestrial'?
 A: Harrison Ford - Entertainment: Film
+Knowledge Quiz
+Q: Which of these names was an actual codename for a cancelled Microsoft project?
+A: Neptune - Science: Computers
