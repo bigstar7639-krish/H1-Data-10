@@ -534,3 +534,6 @@ A: .svg - Science: Computers
 Knowledge Quiz
 Q: Which virtual assistant is developed by Amazon?
 A: Alexa - Science: Gadgets
+Knowledge Quiz
+Q: The historical city Timbuktu is located in which West African country?
+A: Mali - Geography
