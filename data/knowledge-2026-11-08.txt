@@ -306,3 +306,6 @@ A: Bold and Brash - General Knowledge
 Knowledge Quiz
 Q: What is the capital of Australia?
 A: Canberra - Geography
+Knowledge Quiz
+Q: The main objective of the German operation "Case Blue" during World War II was originally to capture what?
+A: Caucasus - History
