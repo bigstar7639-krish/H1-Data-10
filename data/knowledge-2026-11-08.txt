@@ -648,3 +648,6 @@ A: Illmatic - Entertainment: Music
 Knowledge Quiz
 Q: In Supernatural, what's is Sam's brothers name?
 A: Dean - Entertainment: Television
+Knowledge Quiz
+Q: Which classic book opens with the line "Call me Ishmael"?
+A: Moby Dick - Entertainment: Books
