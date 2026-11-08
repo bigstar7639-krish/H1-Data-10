@@ -399,3 +399,15 @@ Q 4113 - Nature pathi oru story kekkura?
 Motivation 4114
 Paravalla! Rest edu - Thirumba try pannu!
 Smart Q 4115 - Angry la eppadi jeyikkarathu?
+Knowledge 4116 - Newton - Hey buddy! Newton-ஐ பற்றி பேசலாமா? 🚀  
+
+**Isaac Newton (1642‑1727)** – இந்தப் பேராசிரியர் தான் modern science‑ன் foundation-ஐ lay‑செய்தவனு சொல்லலாம். அவர் mainly **three big things**-ல் world‑க்கு impact கொடுத்தார்:
+
+---
+
+### 1️⃣ Classical Mechanics – *Newton’s Three Laws of Motion*  
+| Law | Short Tamil‑English Explanation |
+|-----|---------------------------------|
+| **First Law (Inertia)** | ஒரு object **இயங்காமல்** இருக்க (or constant velocity‑ல்) unless an external force acts on it. “இல்லை force, இல்லை change.” |
+| **Second Law (F = ma)** | Force = mass × acceleration. “Force-ஐ increase பண்ணலாமா? Mass-ஐ அதிகப்படுத்தலாமா? Acceleration-ஐ boost பண்ணலாமா?” |
+| **Third Law (Action‑Reaction)** | ஒவ்வொரு action-க்கும் **equal and opposite reaction** இருக்கும். “நீ push பண்ணு, floor உன்‑க்கு 
