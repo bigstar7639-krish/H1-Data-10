@@ -133,3 +133,5 @@ Recipe 3958 - Snacks - Potato + Masala - Crispy!
 Recipe 3959 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Joke 3960
 Why bike sad? Petrol illa!
+World Story 3961
+Oru chinna london la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
