@@ -499,3 +499,6 @@ A: Kahless the Unforgettable - Entertainment: Television
 Knowledge Quiz
 Q: What does the term GPU stand for?
 A: Graphics Processing Unit - Science: Computers
+Knowledge Quiz
+Q: What does "LCD" stand for?
+A: Liquid Crystal Display - Science: Computers
