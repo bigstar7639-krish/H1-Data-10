@@ -421,3 +421,6 @@ A: 1504 - Art
 Knowledge Quiz
 Q: What is the Spanish word for "donkey"?
 A: Burro - General Knowledge
+Knowledge Quiz
+Q: Which of these is NOT a city in India?
+A: Islamabad - Geography
