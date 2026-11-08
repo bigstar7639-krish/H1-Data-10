@@ -628,3 +628,4 @@ Vocab 4243 - Dream = Kanavu
 World Story 4244
 Oru chennai la oru student irunthan! Daily coding pannan pannan! Oru naal dream kedaichuchu! Life maariduchu!
 Talk 4245 - Football pathi pesalama? Sollu!
+Smart Q 4246 - Sun la eppadi jeyikkarathu?
