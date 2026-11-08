@@ -48,3 +48,6 @@ A: Program And Control Man - Entertainment: Television
 Knowledge Quiz
 Q: Which novel by John Grisham was conceived on a road trip to Florida while thinking about stolen books with his wife?
 A: Camino Island - Entertainment: Books
+Knowledge Quiz
+Q: Which of the following is NOT a summon in the game "South Park: The Stick of Truth"?
+A: Towelie - Entertainment: Video Games
