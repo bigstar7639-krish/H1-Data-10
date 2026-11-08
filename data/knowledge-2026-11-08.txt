@@ -493,3 +493,6 @@ A: Super Mario Sunshine - Entertainment: Video Games
 Knowledge Quiz
 Q: In the game "Persona 4", what is the canonical name of the protagonist?
 A: Yu Narukami - Entertainment: Video Games
+Knowledge Quiz
+Q: In "Star Trek", who was the founder of the Klingon Empire and its philosophy?
+A: Kahless the Unforgettable - Entertainment: Television
