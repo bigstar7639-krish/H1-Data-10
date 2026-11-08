@@ -627,3 +627,6 @@ A: 44.1 kHz - Science: Computers
 Knowledge Quiz
 Q: For which civil rights activist did Stevie Wonder write the song 'Happy Birthday' in 1980?
 A: Martin Luther King Jr - Entertainment: Music
+Knowledge Quiz
+Q: What was the title of the first Bond movie, released in 1962?
+A: Dr. No - Entertainment: Film
