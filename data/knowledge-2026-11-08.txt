@@ -117,3 +117,6 @@ A: Half-Life: Opposing Force - Entertainment: Video Games
 Knowledge Quiz
 Q: Which company developed the Hololens?
 A: Microsoft - Science: Gadgets
+Knowledge Quiz
+Q: Which of the four empires in  Eve Online was the first to achieve faster than light travel?
+A: Amarr Empire - Entertainment: Video Games
