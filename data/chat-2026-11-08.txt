@@ -637,3 +637,4 @@ Talk 4250 - Alien pathi pesalama? Sollu!
 Game 4251 - Dice - Ne Dice nu Sollu!
 Game 4252 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Fact 176 - Octopus ku 3 heart!
+Reading 4254 - Thirukkural - Valluvar!
