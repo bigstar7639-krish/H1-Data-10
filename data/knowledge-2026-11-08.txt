@@ -531,3 +531,6 @@ A: Serbia - Geography
 Knowledge Quiz
 Q: What is the most preferred image format used for logos in the Wikimedia database?
 A: .svg - Science: Computers
+Knowledge Quiz
+Q: Which virtual assistant is developed by Amazon?
+A: Alexa - Science: Gadgets
