@@ -340,3 +340,6 @@ A: Brawler, Rush, Beast, Legend - Entertainment: Video Games
 Knowledge Quiz
 Q: What actor portrays Hogan "Wash" Washburne in the TV Show Firefly?
 A: Alan Tudyk - Entertainment: Television
+Knowledge Quiz
+Q: According to the Star Wars lore, what is Han Solo's home planet?
+A: Corellia - Entertainment: Film
