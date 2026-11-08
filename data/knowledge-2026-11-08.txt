@@ -255,3 +255,6 @@ A: Toys in the Attic - Entertainment: Music
 Knowledge Quiz
 Q: Which country has the abbreviation "CH"?
 A: Switzerland - Geography
+Knowledge Quiz
+Q: How many plays is Shakespeare generally considered to have written?
+A: 37 - Entertainment: Musicals & Theatres
