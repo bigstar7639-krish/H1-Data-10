@@ -165,3 +165,5 @@ Knowledge 3972 - Wisdom - Hey friend! 🌟
 
 ### 5. **Live in the present**  
    - “Present”‑இல் தான் எல்லா opportunities இர
+Coding Q 3973 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
