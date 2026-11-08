@@ -670,3 +670,6 @@ A: Alexander VI - History
 Knowledge Quiz
 Q: The Windows OS was delevoped by which company?
 A: Microsoft - Science: Computers
+Knowledge Quiz
+Q: In what year was the card game Magic: the Gathering first introduced?
+A: 1993 - Entertainment: Board Games
