@@ -99,3 +99,6 @@ A: 3 - Science: Mathematics
 Knowledge Quiz
 Q: How many notes are there on a standard grand piano?
 A: 88 - General Knowledge
+Knowledge Quiz
+Q: Which company designed the "Betamax" video cassette format?
+A: Sony - Science: Gadgets
