@@ -120,3 +120,4 @@ Aira: Bayam - Normal! Ne jeyichiduva!
 Coding Q 3947 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Game 3948 - Coin Toss - Ne Toss nu Sollu!
+Talk 3949 - Reading pathi pesalama? Sollu!
