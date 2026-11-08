@@ -451,3 +451,6 @@ A: 1982 - Science: Gadgets
 Knowledge Quiz
 Q: The fictional movie 'Rochelle, Rochelle' features in which sitcom?
 A: Seinfeld - Entertainment: Television
+Knowledge Quiz
+Q: The musical "Dirty Rotten Scoundrels" is set in what country?
+A: France - Entertainment: Musicals & Theatres
