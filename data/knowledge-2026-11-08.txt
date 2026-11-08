@@ -415,3 +415,6 @@ A: Mario Kart: Super Circuit - Entertainment: Video Games
 Knowledge Quiz
 Q: Where are the Nazca Lines located?
 A: Peru - Geography
+Knowledge Quiz
+Q: What year was the Mona Lisa finished?
+A: 1504 - Art
