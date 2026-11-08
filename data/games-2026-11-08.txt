@@ -1,2 +1,3 @@
 Game 3886 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
 Game 3899 - Quiz: Python eppo uruvaachu? Answer: 1991!
+Game 3927 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
