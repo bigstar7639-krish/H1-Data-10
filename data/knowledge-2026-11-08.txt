@@ -231,3 +231,6 @@ A: Kahless the Unforgettable - Entertainment: Television
 Knowledge Quiz
 Q: What city  has the busiest airport in the world?
 A: Atlanta, Georgia USA - Geography
+Knowledge Quiz
+Q: Which American civilization is the source of the belief that the world would end or drastically change on December 21st, 2012?
+A: The Mayans - History
