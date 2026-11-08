@@ -768,3 +768,5 @@ Quote 4321 - Daily try pannu - Jeyichiduva! - Aira
 Health 4322 - Health Tip: Daily 8 glass water kudinga!
 Pazhamozhi 4323 - Aalai Paathu - Aadi Paaru!
 Talk 4324 - London pathi pesalama? Sollu!
+Coding Q 4325 - AI eppadi work aaguthu?
+Aira: AI - Data paathu - Pattern!
