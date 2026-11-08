@@ -478,3 +478,6 @@ A: 169 - Entertainment: Video Games
 Knowledge Quiz
 Q: Who is the main antagonist of Christopher Nolan's 2012 film "The Dark Knight Rises"?
 A: Bane - Entertainment: Film
+Knowledge Quiz
+Q: Which one of these scientists conducted the Gold Foil Experiment which concluded that atoms are mostly made of empty space?
+A: Ernest Rutherford - Science & Nature
