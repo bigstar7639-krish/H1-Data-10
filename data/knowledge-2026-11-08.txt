@@ -454,3 +454,6 @@ A: Seinfeld - Entertainment: Television
 Knowledge Quiz
 Q: The musical "Dirty Rotten Scoundrels" is set in what country?
 A: France - Entertainment: Musicals & Theatres
+Knowledge Quiz
+Q: Which of these is not the name of a city in the Grand Theft Auto series?
+A: San Andreas - Entertainment: Video Games
