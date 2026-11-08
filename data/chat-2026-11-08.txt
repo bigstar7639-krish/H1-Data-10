@@ -325,3 +325,4 @@ Knowledge 4062 - Fitness - **Hey! 👋 Aira in‑da house – Tamil‑Tanglish s
 Reading 4063 - Thirukkural - Valluvar!
 Movie 4064 - Harry Potter - Magic!
 Movie 4065 - Leo - Vijay - Action!
+Thirukkural 4066 - Kattrathu - Kai Mann Alavu! - Thirukkural
