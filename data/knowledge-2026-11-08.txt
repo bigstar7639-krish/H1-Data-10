@@ -448,3 +448,6 @@ A: Air - Entertainment: Film
 Knowledge Quiz
 Q: When was the compact disc player first released?
 A: 1982 - Science: Gadgets
+Knowledge Quiz
+Q: The fictional movie 'Rochelle, Rochelle' features in which sitcom?
+A: Seinfeld - Entertainment: Television
