@@ -754,3 +754,6 @@ Knowledge 4412 - Black Hole - Black Hole pathi sollu - Nalla question! Daily try
 Knowledge Quiz
 Q: What year was the game "Overwatch" revealed?
 A: 2014 - Entertainment: Video Games
+Knowledge Quiz
+Q: During World War I, which nation's monarchs were blood related?
+A: England, Germany, Russia - History
