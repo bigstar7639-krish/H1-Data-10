@@ -518,3 +518,6 @@ A: Toto - Entertainment: Music
 Knowledge Quiz
 Q: Which of the following is NOT a real song from the band Thousand Foot Krutch?
 A: Limitless Fury - Entertainment: Music
+Knowledge Quiz
+Q: Burning which of these metals will produce a bright white flame?
+A: Magnesium - Science & Nature
