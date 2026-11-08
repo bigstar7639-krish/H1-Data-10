@@ -4,3 +4,4 @@ Game 3927 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 3948 - Coin Toss - Ne Toss nu Sollu!
 Game 3981 - Dice - Ne Dice nu Sollu!
 Game 3982 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
+Game 4004 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
