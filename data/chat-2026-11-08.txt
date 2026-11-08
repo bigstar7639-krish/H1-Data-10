@@ -708,3 +708,5 @@ Aira: AI - Data paathu - Pattern!
 Emotion Q 4284 - lonely?
 Aira: Lonely ah? Aira irukka la!
 Health 4285 - Health Tip: Daily 8 glass water kudinga!
+Coding Q 4286 - HTML la button eppadi?
+Aira: HTML button: `<button>Click</button>`
