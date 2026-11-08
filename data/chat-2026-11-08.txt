@@ -913,3 +913,20 @@ Quote 4403 - Daily try pannu - Jeyichiduva! - Aira
 Vocab 4404 - Friend = Nanban
 Business Idea 4405 - Tuition - Veetla Tuition!
 Reading 4406 - Ponniyin Selvan - Kalki!
+Knowledge 4407 - Maths - Hey buddy! 👋  
+Maths pathi kekkareenga? Let’s take a **quick‑tour** through the amazing world of *mathematics* – in true **Tamil‑Tanglish** style (with a sprinkle of a few other languages just for fun)! 🌍  
+
+---
+
+## 1️⃣ What is Maths?  
+**Maths** (மதிதம்) = the *science of patterns, numbers, shapes, and logical reasoning*.  
+It’s like a universal language – “**Les nombres** sont le même partout!” (Numbers are the same everywhere).  
+
+---
+
+## 2️⃣ Main Branches (முக்கிய கிளைகள்)
+
+| Branch | Tamil Name | What it studies | Everyday example |
+|--------|------------|----------------|------------------|
+| **Arithmetic** | கணிதம் (கணக்கீடு) | Basic operations – +, –, ×, ÷ | கணக்கு பில் (bill) settle‑செய்தல் |
+| **Algebra** | பீஜக கணிதம் | Unknowns (variables) & equations | “x + 5 = 12” → x = 7, li
