@@ -114,3 +114,6 @@ A: Derse - Entertainment: Comics
 Knowledge Quiz
 Q: In what Half-Life expansion can you find Gordon's picture in an "Employee of the Month" picture frame?
 A: Half-Life: Opposing Force - Entertainment: Video Games
+Knowledge Quiz
+Q: Which company developed the Hololens?
+A: Microsoft - Science: Gadgets
