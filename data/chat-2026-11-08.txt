@@ -677,3 +677,5 @@ Business Idea 4272 - YouTube - Daily 1 Shorts - 6 Maatham - Money!
 Kavithai 4273 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
 Emotion Q 4274 - bored?
 Aira: Bored ah? Joke sollattuma?
+Coding Q 4275 - React la component enna?
+Aira: React component - Chinna piece!
