@@ -744,3 +744,6 @@ It’s like a universal language – “**Les nombres** sont le même partout!�
 |--------|------------|----------------|------------------|
 | **Arithmetic** | கணிதம் (கணக்கீடு) | Basic operations – +, –, ×, ÷ | கணக்கு பில் (bill) settle‑செய்தல் |
 | **Algebra** | பீஜக கணிதம் | Unknowns (variables) & equations | “x + 5 = 12” → x = 7, li
+Knowledge Quiz
+Q: Which of the following is a personal computer made by the Japanese company Fujitsu?
+A: FM-7 - Science: Computers
