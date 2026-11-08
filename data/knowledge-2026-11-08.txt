@@ -445,3 +445,6 @@ A: Bear McCreary - Entertainment: Television
 Knowledge Quiz
 Q: In the movie "Spaceballs", what are the Spaceballs attempting to steal from Planet Druidia?
 A: Air - Entertainment: Film
+Knowledge Quiz
+Q: When was the compact disc player first released?
+A: 1982 - Science: Gadgets
