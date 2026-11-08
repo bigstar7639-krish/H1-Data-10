@@ -481,3 +481,6 @@ A: Bane - Entertainment: Film
 Knowledge Quiz
 Q: Which one of these scientists conducted the Gold Foil Experiment which concluded that atoms are mostly made of empty space?
 A: Ernest Rutherford - Science & Nature
+Knowledge Quiz
+Q: In Portal, what color is the Intelligence Core?
+A: Blue - Entertainment: Video Games
