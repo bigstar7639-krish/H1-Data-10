@@ -496,3 +496,6 @@ A: Yu Narukami - Entertainment: Video Games
 Knowledge Quiz
 Q: In "Star Trek", who was the founder of the Klingon Empire and its philosophy?
 A: Kahless the Unforgettable - Entertainment: Television
+Knowledge Quiz
+Q: What does the term GPU stand for?
+A: Graphics Processing Unit - Science: Computers
