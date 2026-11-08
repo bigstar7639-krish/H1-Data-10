@@ -213,3 +213,6 @@ Knowledge Quiz
 Q: How many plays is Shakespeare generally considered to have written?
 A: 37 - Entertainment: Musicals & Theatres
 Knowledge 4016 - AI - AI - Data paathu - Pattern!
+Knowledge Quiz
+Q: Which one is NOT the function of engine oil in car engines?
+A: Combustion - Vehicles
