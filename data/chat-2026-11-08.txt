@@ -146,3 +146,5 @@ Movie 3968 - Leo - Vijay - Action!
 Vocab 3969 - Courage = Thairiyam
 World Story 3970
 Oru city la oru raja irunthan! Daily travel pannan pannan! Oru naal friend kedaichuchu! Life maariduchu!
+Emotion Q 3971 - lonely?
+Aira: Lonely ah? Aira irukka la!
