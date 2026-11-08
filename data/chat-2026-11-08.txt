@@ -714,3 +714,5 @@ Q 4287 - Un life la Moon eppadi irukku?
 Recipe 4288 - Cake - Maida + Sugar + Egg + 30 min!
 Story 4289
 Oru chinna tokyo la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Joke 4290
+Teacher: Yen late? Student: School Ahead board!
