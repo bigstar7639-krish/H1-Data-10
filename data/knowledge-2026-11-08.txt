@@ -120,3 +120,6 @@ A: Microsoft - Science: Gadgets
 Knowledge Quiz
 Q: Which of the four empires in  Eve Online was the first to achieve faster than light travel?
 A: Amarr Empire - Entertainment: Video Games
+Knowledge Quiz
+Q: How many protons are in an oxygen atom?
+A: Eight - Science & Nature
