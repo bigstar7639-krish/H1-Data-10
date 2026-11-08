@@ -573,3 +573,6 @@ Knowledge 4292 - Thirukkural - Thirukkural pathi sollu - Nalla question! Daily t
 Knowledge Quiz
 Q: Which of the following pitchers was named National League Rookie of the Year for the 2013 season?
 A: Jose Fernandez - Sports
+Knowledge Quiz
+Q: In a game of snooker, what colour ball is worth 3 points?
+A: Green - Sports
