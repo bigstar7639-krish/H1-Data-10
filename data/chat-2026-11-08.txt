@@ -257,3 +257,4 @@ Pazhamozhi 4031 - Porumai - Perumai Tharum!
 Q 4032 - Family pathi oru secret sollatta?
 Health 4033 - Health Tip: 7 mani neram thoongunga!
 Game 4034 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
+Smart Q 4035 - Student la eppadi jeyikkarathu?
