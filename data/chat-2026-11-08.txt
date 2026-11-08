@@ -391,3 +391,5 @@ World Story 4107
 Oru mountain la oru ponnu irunthan! Daily dream pannan pannan! Oru naal power kedaichuchu! Life maariduchu!
 Q 4108 - Unakku Diet pathi enna theriyum?
 Fact 171 - Octopus ku 3 heart!
+Coding Q 4110 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
