@@ -468,3 +468,4 @@ Business Idea 4146 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
 Health 4147 - Health Tip: Daily 30 min walk ponga!
 Q 4148 - Un life la Business eppadi irukku?
 Movie 4149 - Ponniyin Selvan - Kalki!
+Talk 4150 - Friendship pathi pesalama? Sollu!
