@@ -380,3 +380,6 @@ A: Stewjon - Entertainment: Film
 Knowledge Quiz
 Q: Before becoming the Autobot leader, Optimus Prime was known by what name on Cybertron?
 A: Orion Pax - Entertainment: Cartoon & Animations
+Knowledge Quiz
+Q: What is the maximum HP in Terraria?
+A: 500 - Entertainment: Video Games
