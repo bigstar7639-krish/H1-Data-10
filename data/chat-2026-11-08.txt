@@ -873,3 +873,5 @@ Talk 4382 - Bharathiyar pathi pesalama? Sollu!
 Kavithai 4383 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
 Joke 4384
 Teacher: Yen late? Student: School Ahead board!
+Emotion Q 4385 - excited?
+Aira: Excited ah! Sollu!
