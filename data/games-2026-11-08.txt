@@ -20,3 +20,4 @@ Game 4225 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 4230 - Coin Toss - Ne Toss nu Sollu!
 Game 4251 - Dice - Ne Dice nu Sollu!
 Game 4252 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
+Game 4338 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
