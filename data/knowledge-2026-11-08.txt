@@ -327,3 +327,6 @@ A: Generator 5 - Entertainment: Video Games
 Knowledge Quiz
 Q: Where is the Gluteus Maximus muscle located?
 A: Butt - Science & Nature
+Knowledge Quiz
+Q: What is the name of the protagonist of Life Is Strange?
+A: Max Caulfield - Entertainment: Video Games
