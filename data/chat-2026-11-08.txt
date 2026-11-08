@@ -50,3 +50,5 @@ Health 3902 - Health Tip: 7 mani neram thoongunga!
 Thirukkural 3903 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Pazhamozhi 3904 - Porumai - Perumai Tharum!
 Talk 3905 - Robot pathi pesalama? Sollu!
+Coding Q 3906 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
