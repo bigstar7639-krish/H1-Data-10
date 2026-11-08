@@ -424,3 +424,6 @@ A: Burro - General Knowledge
 Knowledge Quiz
 Q: Which of these is NOT a city in India?
 A: Islamabad - Geography
+Knowledge Quiz
+Q: An organism described as "heliotropic" has a tendancy to move towards which of these things?
+A: Light - Science & Nature
