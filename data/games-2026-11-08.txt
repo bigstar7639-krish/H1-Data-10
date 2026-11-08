@@ -10,3 +10,4 @@ Game 4020 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
 Game 4029 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Game 4034 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 4050 - Coin Toss - Ne Toss nu Sollu!
+Game 4052 - Dice - Ne Dice nu Sollu!
