@@ -222,3 +222,6 @@ A: The source code got leaked - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the largest non-continental island in the world?
 A: Greenland - Geography
+Knowledge Quiz
+Q: Which American civilization is the source of the belief that the world would end or drastically change on December 21st, 2012?
+A: The Mayans - History
