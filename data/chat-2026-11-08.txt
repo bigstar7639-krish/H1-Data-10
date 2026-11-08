@@ -342,3 +342,4 @@ Vocab 4077 - Friend = Nanban
 Vocab 4078 - Peace = Amaithi
 Vocab 4079 - Love = Kadhal
 Talk 4080 - Happiness pathi pesalama? Sollu!
+Fact 170 - Tamil - 2000+ varusha mozhi!
