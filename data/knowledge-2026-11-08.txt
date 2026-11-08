@@ -673,3 +673,6 @@ A: Microsoft - Science: Computers
 Knowledge Quiz
 Q: In what year was the card game Magic: the Gathering first introduced?
 A: 1993 - Entertainment: Board Games
+Knowledge Quiz
+Q: What was the first "Team Fortress 2" update to include a war?
+A: Sniper vs. Spy Update - Entertainment: Video Games
