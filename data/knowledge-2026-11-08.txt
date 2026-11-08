@@ -105,3 +105,6 @@ A: Sony - Science: Gadgets
 Knowledge Quiz
 Q: Where was the Games of the XXII Olympiad held?
 A: Moscow - Sports
+Knowledge Quiz
+Q: What Led Zeppelin album contains "Stairway to Heaven"?
+A: Led Zeppelin IV - Entertainment: Music
