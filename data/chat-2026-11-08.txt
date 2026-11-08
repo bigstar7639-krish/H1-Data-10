@@ -899,3 +899,4 @@ Aira: Paravalla! Aira irukka - Pesu!
 Story 4394
 Oru chinna oor la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Game 4395 - Dice - Ne Dice nu Sollu!
+Talk 4396 - Quran pathi pesalama? Sollu!
