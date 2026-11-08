@@ -32,3 +32,6 @@ A: Dibble - Entertainment: Television
 Knowledge Quiz
 Q: Pamina and Papageno are characters in what Mozart opera?
 A: The Magic Flute - Entertainment: Music
+Knowledge Quiz
+Q: In what year was the Oculus Rift revealed to the public through a Kickstarter campaign?
+A: 2012 - Science: Gadgets
