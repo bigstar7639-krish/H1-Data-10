@@ -252,3 +252,6 @@ A: Always wear a shirt - Entertainment: Film
 Knowledge Quiz
 Q: Which Aerosmith album featured "Walk This Way"?
 A: Toys in the Attic - Entertainment: Music
+Knowledge Quiz
+Q: Which country has the abbreviation "CH"?
+A: Switzerland - Geography
