@@ -570,3 +570,5 @@ Aira: React component - Chinna piece!
 Q 4214 - Job pathi oru secret sollatta?
 Story 4215
 Oru madurai la oru raja irunthan! Daily book padichan pannan! Oru naal wisdom kedaichuchu! Life maariduchu!
+Joke 4216
+Why bike sad? Petrol illa!
