@@ -294,3 +294,6 @@ A: Mario Super Sluggers - Entertainment: Video Games
 Knowledge Quiz
 Q: In the programming language "Python", which of these statements would display the string "Hello World" correctly?
 A: print("Hello World") - Science: Computers
+Knowledge Quiz
+Q: What is lost in Hawaiian and is also the name of a little girl in a 2002 film which features a alien named "Stitch"?
+A: Lilo - Entertainment: Cartoon & Animations
