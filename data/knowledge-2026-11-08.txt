@@ -176,3 +176,6 @@ A: 21 - Science & Nature
 Knowledge Quiz
 Q: What is the name of the author of book series 'Percy Jackson'?
 A: Rick Riordan - Entertainment: Books
+Knowledge Quiz
+Q: Who painted the painting "Nighthawks"?
+A: Edward Hopper - Art
