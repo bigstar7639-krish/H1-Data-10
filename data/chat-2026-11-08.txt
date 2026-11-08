@@ -411,3 +411,4 @@ Knowledge 4116 - Newton - Hey buddy! Newton-ஐ பற்றி பேசல�
 | **First Law (Inertia)** | ஒரு object **இயங்காமல்** இருக்க (or constant velocity‑ல்) unless an external force acts on it. “இல்லை force, இல்லை change.” |
 | **Second Law (F = ma)** | Force = mass × acceleration. “Force-ஐ increase பண்ணலாமா? Mass-ஐ அதிகப்படுத்தலாமா? Acceleration-ஐ boost பண்ணலாமா?” |
 | **Third Law (Action‑Reaction)** | ஒவ்வொரு action-க்கும் **equal and opposite reaction** இருக்கும். “நீ push பண்ணு, floor உன்‑க்கு 
+Q 4117 - Ne Universe la eppadi improve panna mudiyum?
