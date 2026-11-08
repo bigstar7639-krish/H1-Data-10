@@ -502,3 +502,6 @@ A: Graphics Processing Unit - Science: Computers
 Knowledge Quiz
 Q: What does "LCD" stand for?
 A: Liquid Crystal Display - Science: Computers
+Knowledge Quiz
+Q: Which of the following Physicists aided Nazi Germany in their production of a nuclear weapon?
+A: Werner Heisenberg - History
