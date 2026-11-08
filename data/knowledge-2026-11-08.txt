@@ -747,3 +747,6 @@ It’s like a universal language – “**Les nombres** sont le même partout!�
 Knowledge Quiz
 Q: Which of the following is a personal computer made by the Japanese company Fujitsu?
 A: FM-7 - Science: Computers
+Knowledge Quiz
+Q: The Internet Meme "All your base are belong to us" is based on the poorly translated English Version of which Video Game?
+A: Zero Wing - Entertainment: Video Games
