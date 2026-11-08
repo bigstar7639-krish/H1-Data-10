@@ -132,3 +132,6 @@ A: Sazae-san - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: Which King of England was faced with the Peasants' Revolt in 1381?
 A: Richard II - History
+Knowledge Quiz
+Q: Who discovered the Law of Gravity?
+A: Sir Isaac Newton - Science & Nature
