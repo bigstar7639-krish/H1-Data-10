@@ -343,3 +343,4 @@ Vocab 4078 - Peace = Amaithi
 Vocab 4079 - Love = Kadhal
 Talk 4080 - Happiness pathi pesalama? Sollu!
 Fact 170 - Tamil - 2000+ varusha mozhi!
+Kavithai 4082 - Un Kural - En Isai! - Aira
