@@ -237,3 +237,6 @@ A: The Mayans - History
 Knowledge Quiz
 Q: In a standard Gregorian calendar, how many months begin with the letter 'J'?
 A: Three - General Knowledge
+Knowledge Quiz
+Q: Which of these automotive brands originated in Sweden?
+A: Volvo - Vehicles
