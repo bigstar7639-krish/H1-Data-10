@@ -554,3 +554,6 @@ A: Bloodstar - Entertainment: Video Games
 Knowledge Quiz
 Q: Who patented a steam engine that produced continuous rotary motion?
 A: James Watt - Science: Gadgets
+Knowledge Quiz
+Q: What is the name of Eragon's dragon in "Eragon"?
+A: Saphira - Entertainment: Books
