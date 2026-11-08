@@ -484,3 +484,6 @@ A: Ernest Rutherford - Science & Nature
 Knowledge Quiz
 Q: In Portal, what color is the Intelligence Core?
 A: Blue - Entertainment: Video Games
+Knowledge Quiz
+Q: What level do you have to be to get a service medal on CS:GO?
+A: 40 - Entertainment: Video Games
