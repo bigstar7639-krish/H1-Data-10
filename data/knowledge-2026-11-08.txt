@@ -760,3 +760,6 @@ A: England, Germany, Russia - History
 Knowledge Quiz
 Q: In Minecraft, what types of sound files are required for custom SFX to work in resource packs?
 A: .ogg - Entertainment: Video Games
+Knowledge Quiz
+Q: The Norse god Odin has two pet crows named "Huginn" and "Muninn".  What do their names mean?
+A: Thought & Memory - Mythology
