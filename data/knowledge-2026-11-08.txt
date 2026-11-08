@@ -358,3 +358,6 @@ Knowledge 4116 - Newton - Hey buddy! Newton-ஐ பற்றி பேசல�
 Knowledge Quiz
 Q: What is the name of the AHL affiliate of the Toronto Maple Leafs?
 A: Toronto Marlies - Sports
+Knowledge Quiz
+Q: Which Nazi General was known as the "Desert Fox"?
+A: Erwin Rommel - History
