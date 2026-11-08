@@ -463,3 +463,6 @@ A: HRL-7 - Entertainment: Video Games
 Knowledge Quiz
 Q: In the Board Game, Settlers of Catan, a die roll of what number causes the Robber to attack? 
 A: 7 - Entertainment: Board Games
+Knowledge Quiz
+Q: What is the name of James Dean's character in the 1955 movie "Rebel Without a Cause"?
+A: Jim Stark - Entertainment: Film
