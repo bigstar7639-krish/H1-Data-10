@@ -42,3 +42,6 @@ Knowledge 3893 - Mahabharata - Mahabharata pathi sollu - Nalla question! Daily t
 Knowledge Quiz
 Q: In "Call Of Duty: Zombies", what is the name of Samantha Maxis' dog?
 A: Fluffy - Entertainment: Video Games
+Knowledge Quiz
+Q: In the Black Mirror episode "Bandersnatch", PAC-MAN stands for:
+A: Program And Control Man - Entertainment: Television
