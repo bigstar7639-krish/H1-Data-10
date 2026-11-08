@@ -487,3 +487,6 @@ A: Blue - Entertainment: Video Games
 Knowledge Quiz
 Q: What level do you have to be to get a service medal on CS:GO?
 A: 40 - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of the following games was not a launch title for the Nintendo Gamecube?
+A: Super Mario Sunshine - Entertainment: Video Games
