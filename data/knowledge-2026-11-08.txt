@@ -694,3 +694,6 @@ A: October 24, 2005 - Entertainment: Video Games
 Knowledge Quiz
 Q: In the Fallout: New Vegas add-on Honest Hearts, what is the name of Joshua Graham's personal .45 pistol?
 A: A Light Shining in Darkness - Entertainment: Video Games
+Knowledge Quiz
+Q: In quantum physics, which of these theorised sub-atomic particles has yet to be observed?
+A: Graviton - Science & Nature
