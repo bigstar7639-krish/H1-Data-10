@@ -96,3 +96,6 @@ A: American Gun - Celebrities
 Knowledge Quiz
 Q: What is the least number of sides a polygon can have?
 A: 3 - Science: Mathematics
+Knowledge Quiz
+Q: How many notes are there on a standard grand piano?
+A: 88 - General Knowledge
