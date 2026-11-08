@@ -551,3 +551,6 @@ Knowledge 4271 - Yoga - Yoga pathi sollu - Nalla question! Daily try pannu - Jey
 Knowledge Quiz
 Q: What is the default name of the Vampire character in "Shining Soul 2".
 A: Bloodstar - Entertainment: Video Games
+Knowledge Quiz
+Q: Who patented a steam engine that produced continuous rotary motion?
+A: James Watt - Science: Gadgets
