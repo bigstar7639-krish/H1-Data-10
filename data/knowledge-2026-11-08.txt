@@ -216,3 +216,6 @@ Knowledge 4016 - AI - AI - Data paathu - Pattern!
 Knowledge Quiz
 Q: Which one is NOT the function of engine oil in car engines?
 A: Combustion - Vehicles
+Knowledge Quiz
+Q: What happened to Half-Life 2 prior to its release, which resulted in Valve starting over the development of the game?
+A: The source code got leaked - Entertainment: Video Games
