@@ -179,3 +179,6 @@ A: Rick Riordan - Entertainment: Books
 Knowledge Quiz
 Q: Who painted the painting "Nighthawks"?
 A: Edward Hopper - Art
+Knowledge Quiz
+Q: Who is Manchester United's top premier league goal scorer?
+A: Wayne Rooney - Sports
