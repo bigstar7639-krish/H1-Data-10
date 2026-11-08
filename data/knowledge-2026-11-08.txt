@@ -219,3 +219,6 @@ A: Combustion - Vehicles
 Knowledge Quiz
 Q: What happened to Half-Life 2 prior to its release, which resulted in Valve starting over the development of the game?
 A: The source code got leaked - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the largest non-continental island in the world?
+A: Greenland - Geography
