@@ -223,3 +223,8 @@ Q+A Katha - Hope 🧠
 Question: Which is the most popular spoken language in the Southern Hemisphere?
 
 Answer: Portuguese - General Knowledge. Itha kelvi Hope pathi - Answer Portuguese. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Hope pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Hope la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Hope oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Faith 🧠
+
+Question: In any programming language, what is the most common way to iterate through an array?
+
+Answer: 'For' loops - Science: Computers. Itha kelvi Faith pathi - Answer 'For' loops. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Faith pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Faith la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Faith oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
