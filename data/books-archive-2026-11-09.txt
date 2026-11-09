@@ -67,3 +67,6 @@ Family - bwb_S0-EDZ-888 - RED PLUSH the story of the moorhouse family
 Friendship - fromfriendshipto0000roya - From friendship to marriage
 Friendship - bwb_C0-BNV-551 - The Friendship Book of Francis Gay 1985
 Study - bppr-3-1304 - Physicochemical characterization of mRNA-encapsulated NPs and RNA loading efficiency study
+Study - bwb_S0-BTO-314 - The old testament and moddern study
+Dream - bwb_S0-DNJ-631 - Never dies the dream
+Dream - bwb_S0-ASP-932 - The Coming League and the Roman Dream
