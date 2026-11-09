@@ -196,3 +196,6 @@ Pizza - isbn_9783576010802 - Pasta, Pizza, Reis und Korn
 Burger - bwb_T4-AJZ-274 - The Ham Burger Cookbook
 Burger - bub_gb_BzFJAAAAcAAJ - Der adelsüchtige Bürger; eine Poße mit Tanz untermischt nach dem Moliere
 Fruit - antagonisticacti0003ygut - Antagonistic Action Of Bacillus Subtilis Against Citrus Fruit Pathogens
+Chocolate - isbn_9780615339702 - Chocolate Travel Guide: United States Edition 2010
+Chocolate - chocolatewar0000robe - The chocolate war
+Fruit - bwb_T3-BSD-639 - so good with fruit
