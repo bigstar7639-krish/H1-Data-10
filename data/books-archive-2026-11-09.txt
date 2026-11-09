@@ -239,3 +239,7 @@ Computer - bestofcomputerfa0003jimw - The Best of the Computer Faires volume III
 Computer - developmentofcom0000john - Development Of Computer Supplements To Calculus
 Book - bwb_T3-BRL-524 - A Study of the Book of Acts
 Book - bwb_S0-BWV-057 - Fish and Game Cook Book
+Kavithai - VedarishigalinKavithaiSubramaniyaBharathiyar - Vedarishigalin Kavithai-Subramaniya Bharathi
+Kavithai - vaanampadigalin_kavithai_iyakkam_varalarum_padippinaigalum - vaanampadigalin_kavithai_iyakkam_varalarum_padippinaigalum
+Thirukkural - TNLA-DB-7-1984-8-63-1-QH5_1984-03-23 - Thirukkural Research Laboratory at Valluvar Kottam
+Thirukkural - saurashtra-thirukkural - Saurashtra Thirukkural
