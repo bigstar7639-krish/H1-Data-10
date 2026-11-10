@@ -65,3 +65,6 @@ Philosophy - bwb_T3-BPE-768_20 - Further Studies in Philosophy
 Economics - moderneconomics0000arth - modern economics
 Economics - isbn_9780536824394 - Economics (Principles and Tools Custom Edition)
 Politics - bwb_S0-DHY-403 - Christians and Power Politics
+Politics - bwb_T5-BAV-164 - Mass politics: Studies in political sociology
+Law - 1979v03iss01lawjournal - West Indian Law Journal
+Law - bwb_Y0-DBX-608 - American Law Reports Annotated Second Series
