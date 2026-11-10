@@ -178,3 +178,7 @@ Football - FootballMatchesAvailableWithEMU14032018ByKhanSat.com - Football Match
 Football - footballchampion0000unse - football champions
 Science - bwb_S0-BQC-719 - The Popular Science
 Science - pubmed-PMC4071745 - Pattern of Medical Admissions at Enugu State University of Science and Technology Teaching Hospital: A 5 Year Review.
+History - bwb_KV-168-775 - The history of St. Mary,s Hospital Medical School
+History - bwb_S0-BWN-092 - The Natural History of Cerebral Palsy
+Culture - bppr-3-1380 - Cell culture and transfection
+Culture - bwb_S0-DUH-940 - Cult and Culture
